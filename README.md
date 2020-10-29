@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paulo</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<h3 align="center">A passionate back-end developer from Brazil</h3>
 
 - 🔭 I’m currently working on [mudi](https://github.com/ohenriques/mudi)
 
