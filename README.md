@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **java/spring-boot/node**
 
-- 👨‍💻 All of my projects are available at [github.com/ohenriques/](github.com/ohenriques/)
+- 👨‍💻 All of my projects are available at [github.com/ohenriques/](https://github.com/ohenriques?tab=repositories/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/paulohs-dev/**
 
