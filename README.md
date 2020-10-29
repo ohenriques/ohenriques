@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [mudi](https://github.com/ohenriques/mudi)
 
-- 🌱 I’m currently learning **spring security,microservices**
+- 🌱 I’m currently learning **spring security, microservices**
 
 - 👯 I’m looking to collaborate on **spring boot**
 
