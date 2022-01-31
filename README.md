@@ -3,14 +3,6 @@
 
 - 🔭 I’m currently working on [ApiFlix](https://github.com/ohenriques/apiflix)
 
-- 🌱 I’m currently learning **spring security, microservices**
-
-- 👯 I’m looking to collaborate on **spring boot**
-
-- 🤝 I’m looking for help with **java/spring-boot/node**
-
-- 👨‍💻 All of my projects are available at [github.com/ohenriques/](https://github.com/ohenriques?tab=repositories/)
-
 - 📫 How to reach me **https://www.linkedin.com/in/paulohs-dev/**
 
 <h3 align="left">Connect with me:</h3>
