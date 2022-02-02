@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paulo</h1>
 <h3 align="center">A passionate back-end developer from Brazil</h3>
 
-- 🔭 I’m currently working on [ApiFlix](https://github.com/ohenriques/apiflix)
+- 🔭 I’m currently working on [Aluracord](https://github.com/ohenriques/Aluracord)
 
 - 📫 How to reach me **https://www.linkedin.com/in/paulohs-dev/**
 
