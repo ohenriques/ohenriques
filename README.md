@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Paulo</h1>
-<h3 align="center">A passionate back-end developer from Brazil</h3>
-
-- 🔭 I’m currently working on [Aluracord](https://github.com/ohenriques/Aluracord)
-
-- 📫 How to reach me **https://www.linkedin.com/in/paulohs-dev/**
-
-<h3 align="left">Connect with me:</h3>
-
-<a href="https://www.linkedin.com/in/paulohs-dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/paulohs-dev/" height="30" width="40" /></a>
-</p>
+<h1 align="center">Heey welcome👋, nice to meet you</h1>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohenriques&show_icons=true&locale=en&layout=compact" alt="ohenriques" /></p>
+- ☕ Currently I work with: Java, PostgreSQL and Oracle.
+- 🎓 Graduated in Systems Analysis and Development
+- 🚀 Programming Language: HTML5, CSS3, JavaScript, Java, Node, React, C#
+- 👨🏻‍💻 I'm currently learning: React, Linux, NoSQL
+- 🏆️ 2022 Goals: Increase my English efficiency and become a fullstack
+- ⚡ Fun fact:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ohenriques&show_icons=true&locale=en" alt="ohenriques" /></p>
+    - When I'm going to carry out the development of a solution, I always like to think of two ways to accomplish that task. 😅
+    - If it's too easy I think it's wrong.
+
+
+# <p align="center"> ✨Let's Code Together! ✨
+<p align="center"> Thanks for the visit!! If you liked this README, please give me a ⭐️
+
+<p align="center"> Feel free to visit the repositories!! ⬇️
 
