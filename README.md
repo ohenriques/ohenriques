@@ -21,6 +21,8 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ohenriques&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </div>
 
+## <p align="center">You can find me
+<a src="https://twitter.com/opaulohsouza"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 # <p align="center"> ✨Let's Code Together! ✨
 <p align="center"> Thanks for the visit!! If you liked this README, please give me a ⭐️
