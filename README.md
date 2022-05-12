@@ -3,7 +3,7 @@
 
 - ☕ Currently I work with: Java, PostgreSQL and Oracle.<img align ="right" height="120em" src="https://c.tenor.com/GfSX-u7VGM4AAAAd/coding.gif"/>
 - 🎓 Graduated in Systems Analysis and Development
-- 👨🏻‍💻 I'm currently learning: React, Linux, NoSQL
+- 👨🏻‍💻 I'm currently learning: Angular, Linux, NoSQL
 - 🏆️ 2022 Goals: Increase my English efficiency and become a fullstack
 - ⚡ Fun fact:
 
