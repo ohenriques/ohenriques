@@ -42,14 +42,6 @@
 
 #
 
-
-## 📈 GitHub Analytics
-<div align="center">
-<a href="https://github.com/ohenriques">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohenriques&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ohenriques&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-</div>
-
 # <p align="center"> ✨Let's Code Together! ✨
 <p align="center"> Thanks for the visit!! If you liked this README, please give me a ⭐️ if you liked
 
